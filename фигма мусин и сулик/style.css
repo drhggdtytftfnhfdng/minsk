@@ -1,0 +1,68 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.wrapper{
+    width: 945px;
+    margin: 0 auto;
+ 
+}
+ul {
+    padding: 0;
+}
+.header_nav{
+    display: flex; 
+    justify-content: space-between;
+    list-style: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom :1px solid #828282;
+    
+}
+a{
+    text-decoration: none;
+    color: #828282;
+    font-weight: 700;
+    
+}
+
+a:hover {
+    color: black;
+}
+.novik{
+    display: flex;
+    justify-content: space-between;
+    height: 188px;
+    align-items: center;
+}
+span{
+    color: #828282;
+}
+.one{
+    font-size: 47.3392px;
+    line-height: 59px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:600; 
+    line-height: 1.2;
+}
+.two{
+    font-family: 'arial';
+    font-size: 18px;
+    line-height: 22px;
+   
+}
+.three{
+    font-weight: 700;
+    writing-mode: vertical-rl
+
+}
+p{
+    text-align: center;   
+}
+
+.UX {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    pa
+}
